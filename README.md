@@ -6,12 +6,12 @@
 
 ## **Details**
 
->  Type: term project
->  Teacher: 戴弘宁
->  Computer Language: Java
->  Project Name: University General Mamanagement system
->  Time: 2019/10/3
->  Description: Extract the basic information (.txt file) of the students, save each piece of information according to the appropriate data structure, and convert the grades of each student into the corresponding GPA. Sort (sort algorithm: QuickSort)
+- Type: term project
+- Teacher: 戴弘宁
+- Computer Language: Java
+- Project Name: University General Mamanagement system
+- Time: 2019/10/3
+- Description: Extract the basic information (.txt file) of the students, save each piece of information according to the appropriate data structure, and convert the grades of each student into the corresponding GPA. Sort (sort algorithm: QuickSort)
 
 ## **Environment:**
 
