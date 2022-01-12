@@ -34,4 +34,4 @@
 
 ## **Example:**
 
-1. ![cmd](./picture/cmd.PNG)
+![cmd](./picture/cmd.PNG)
