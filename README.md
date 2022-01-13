@@ -2,7 +2,11 @@
 
 -----
 
->  Team: [@Hongbo Wang ](https://github.com/BOBWang1117) @Yichu Li
+>  Team: 
+>  
+>  [@Hongbo Wang ](https://github.com/BOBWang1117) 
+>  
+>  @Yichu Li
 
 ## **Details**
 
